@@ -1,6 +1,6 @@
 {
   "name": "@psl-copilot/cbe-rule-033",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Rule description",
   "main": "index.ts",
   "files": [
